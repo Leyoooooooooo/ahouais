@@ -1,5 +1,5 @@
 <?php
-$data=yaml_parse_file("../data/apropos.yaml");
+$data=yaml_parse_file("data/apropos.yaml");
 ?>
 <h1> A PROPOS </h1>
 <hr id="barre">
