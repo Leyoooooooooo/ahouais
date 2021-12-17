@@ -2,13 +2,14 @@
 
 *{
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(to bottom right,rgb(255, 255, 255),#cecece);
+    
 }
 
 
 body{
     margin: 0px;
     padding: 0px;
+    background: linear-gradient(to bottom right,rgb(255, 255, 255),#cecece);
 }
 
 #banner{
