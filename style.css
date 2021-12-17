@@ -60,6 +60,8 @@ h1{
 
 #moi{
     border-radius: 50%;
+    display: flex;
+    justify-content: space-around;
     align-items: center;
 }
 
