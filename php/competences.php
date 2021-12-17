@@ -1,5 +1,5 @@
 <?php
-$content=file_get_contents("../data/competence.yaml");
+$content=file_get_contents("data/competence.yaml");
 $data=yaml_parse($content);
 
 echo '<img id="cisco" src="'.$data['Cisco'].'">';

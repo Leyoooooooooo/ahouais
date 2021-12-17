@@ -1,5 +1,5 @@
 <?php
-$content=file_get_contents("../data/data.yaml");
+$content=file_get_contents("data/data.yaml");
 $data=yaml_parse($content);
 
 /*echo "<pre>";
