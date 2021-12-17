@@ -1,0 +1,122 @@
+
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#banner{
+    height: 70px;
+    background-color: orange;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 1px 1px 12px #555;
+    align-items: center;
+    
+    width: 100%;
+}
+
+
+
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+a:active {
+    color: #ffffff;
+    background-color: transparent; 
+}
+
+a{
+  text-decoration: none;
+}
+
+
+#accueil{
+    align-items: center;
+}
+
+
+hr{
+	height: 5px;
+	background-color:  orange;
+	border: 0;
+	width:  100px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+#moi{
+    border-radius: 50%;
+    align-items: center;
+}
+
+.apropos{
+    background: linear-gradient(to bottom right,rgb(245, 175, 85),#ec9d0a);
+    color: rgb(0, 0, 0);
+}
+
+
+
+#barre{
+    height: 5px;
+	background-color:  rgb(0, 0, 0);
+	border: 0;
+	width:  100px;
+    
+}
+
+#imgpropos{
+    display: flex;
+    align-items: center;
+}
+
+#cisco{
+    width: 15%;
+}
+
+#htmlimg{
+    width: 15%;
+}
+
+#css{
+    width: 10%; 
+}
+
+#php{
+    width: 15%;
+}
+
+#yaml{
+    width: 15%;
+}
+
+#python{
+    width: 20%;
+}
+
+#sql{
+    width: 15%;
+}
+
+#unix{
+    width: 20%;
+}
+
+#anglais{
+    width: 20%;
+}
+
+#espagnol{
+    width: 15%
+}
