@@ -62,6 +62,8 @@ h1{
     border-radius: 50%;
     display: flex;
     align-items: center;
+    margin: auto;
+    width: 50px;
 }
 
 .apropos{
