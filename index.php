@@ -4,7 +4,7 @@
 	<style>
 	@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
 	</style> 
-	<link rel="stylesheet" href="../css/style.css" />
+	<link rel="stylesheet" href="style.css" />
 	<meta charset="utf-8">
 	<title></title>
 </head>
