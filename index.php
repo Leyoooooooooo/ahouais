@@ -12,23 +12,23 @@
 
 		<header>
 			<nav id="banner">
-				<?php include("menu.php"); ?>
+				<?php include("php/menu.php"); ?>
 			</nav>
 		</header>
 
 		<main>
 			<section>
-			<?php include("accueil.php"); ?>
+			<?php include("php/accueil.php"); ?>
 			<br>
 			
 			</section>
 		</main>
 			<section class="apropos">
 				<br>
-				<?php include("apropos.php"); ?>
+				<?php include("php/apropos.php"); ?>
 			</section>
 			<section class="compétences">
-				<?php include("competences.php"); ?>
+				<?php include("php/competences.php"); ?>
 			</section>
 
 </body>
