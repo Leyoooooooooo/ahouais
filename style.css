@@ -85,6 +85,9 @@ h1{
 #imgpropos{
     display: flex;
     align-items: center;
+    margin: auto;
+    width: auto;
+    border-radius: 5%;
 }
 
 #cisco{
@@ -129,5 +132,10 @@ h1{
 
 h2{
     text-align: center;
-    
+
+}
+
+p{
+    font-size: 40px;
+    text-align: center;
 }
