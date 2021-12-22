@@ -22,7 +22,7 @@
 			<br>
 			
 			</section>
-		</main>
+		
 			<section class="apropos">
 				<br>
 				<?php include("php/apropos.php"); ?>
@@ -31,6 +31,7 @@
 				<?php include("php/competences.php"); ?>
 			</section>
 			
+		</main>
 
-</body>
+	</body>
 </html>
