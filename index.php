@@ -30,6 +30,7 @@
 			<section class="competences">
 				<?php include("php/competences.php"); ?>
 			</section>
+			<br>
 			<section class="experience">
 				<br>
 				<?php include("php/experience.php"); ?>
