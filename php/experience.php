@@ -1,20 +1,19 @@
 <?php
-$content=file_get_contents("data/data.yaml");
-$data=yaml_parse($content);
+$data=yaml_parse_file("data/experience.yaml");
 
-/*echo "<pre>";
-print_r($data);
-echo"<pre>";*/
-
-
-echo"<table>";
-foreach($data as $experience) {
-    foreach($experience as $cle=>$val){
-        echo "<tr><td>".$cle."</td><td>".$val."</td></tr>";
-    }
-}
-
-echo"</table>"
 ?>
 
+<h1> EXPÉRIENCE </h1>
+<hr>
 
+<?php
+
+
+
+
+
+
+
+
+
+?>
