@@ -2,14 +2,12 @@
 
 *{
     font-family: 'Poppins', sans-serif;
-    
 }
 
 
 body{
     margin: 0px;
     padding: 0px;
-    background: linear-gradient(to bottom right,rgb(255, 255, 255),#a7a7a7);
 }
 
 #banner{
@@ -60,16 +58,12 @@ h1{
 
 #moi{
     border-radius: 50%;
-    display: flex;
     align-items: center;
-    margin: auto;
-    width: 400px;
 }
 
 .apropos{
     background: linear-gradient(to bottom right,rgb(245, 175, 85),#ec9d0a);
     color: rgb(0, 0, 0);
-    box-shadow: 1px 1px 12px #555;
 }
 
 
@@ -85,41 +79,44 @@ h1{
 #imgpropos{
     display: flex;
     align-items: center;
-    margin: auto;
-    width: auto;
-    border-radius: 5%;
 }
 
-h2{
-    text-align: center;
-
+#cisco{
+    width: 15%;
 }
 
-p{
-    font-size: 40px;
-    text-align: center;
+#htmlimg{
+    width: 15%;
 }
 
-.case{
-    width  : 25%;
-    height : 12%;
-    background : linear-gradient(to bottom right ,#ffffff,#e0e0e0);
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    box-shadow: 1px 1px 12px #555;
-    border-radius: 5%;
-    
+#css{
+    width: 10%; 
 }
 
-#comp{
-    font-weight: lighter;
+#php{
+    width: 15%;
 }
 
-.elements{
-    display: flex;
-    align-content: space-between;
-    flex-wrap: wrap;
-    gap: 20px 20px;
-    justify-content: center;
+#yaml{
+    width: 15%;
+}
+
+#python{
+    width: 20%;
+}
+
+#sql{
+    width: 15%;
+}
+
+#unix{
+    width: 20%;
+}
+
+#anglais{
+    width: 20%;
+}
+
+#espagnol{
+    width: 15%
 }
