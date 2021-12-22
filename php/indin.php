@@ -4,7 +4,7 @@
 	<style>
 	@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
 	</style> 
-	<link rel="stylesheet" href="style.css" />
+	<link rel="stylesheet" href="../css/style.css" />
 	<meta charset="utf-8">
 	<title></title>
 </head>
@@ -12,25 +12,24 @@
 
 		<header>
 			<nav id="banner">
-				<?php include("php/menu.php"); ?>
+				<?php include("menu.php"); ?>
 			</nav>
 		</header>
 
 		<main>
 			<section>
-			<?php include("php/accueil.php"); ?>
+			<?php include("accueil.php"); ?>
 			<br>
 			
 			</section>
 		</main>
 			<section class="apropos">
 				<br>
-				<?php include("php/apropos.php"); ?>
+				<?php include("apropos.php"); ?>
 			</section>
-			<section class="competences">
-				<?php include("php/competences.php"); ?>
+			<section class="compétences">
+				<?php include("competences.php"); ?>
 			</section>
-			
 
 </body>
 </html>
