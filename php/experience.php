@@ -16,4 +16,6 @@ echo '<p>Stage de '.$data["Duree3"].' au ' .$data["entreprise3"].' en '.$data["A
 
 echo '<p>Job saisonnier de '.$data["Duree4"].' à ' .$data["entreprise4"].' en '.$data["Annee4"].'.('.$data["Taches4"].') </p>';
 
+echo '<p>Job saisonnier de '.$data["Duree5"].' à ' .$data["entreprise5"].' en '.$data["Annee5"].'.('.$data["Taches5"].') </p>';
+
 ?>
