@@ -21,3 +21,4 @@ echo '<p>Job saisonnier de '.$data["Duree5"].' à ' .$data["entreprise5"].' en '
 ?>
 
 <a href="../doc/cvleo.pdf">Lien vers mon CV</a>
+<br>
