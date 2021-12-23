@@ -8,7 +8,7 @@ $data=yaml_parse_file("data/experience.yaml");
 
 <?php
 
-echo '<p>'.$data["experience1"].["entreprise"].'</p>';
+echo '<p>'.$data["experience1.entreprise"].'</p>';
 
 
 
