@@ -19,3 +19,5 @@ echo '<p>Job saisonnier de '.$data["Duree4"].' à ' .$data["entreprise4"].' en '
 echo '<p>Job saisonnier de '.$data["Duree5"].' à ' .$data["entreprise5"].' en '.$data["Annee5"].'.('.$data["Taches5"].') </p>';
 
 ?>
+
+<a href="../doc/cvleo.pdf">Lien vers mon CV</a>
