@@ -8,8 +8,8 @@ $data=yaml_parse_file("data/experience.yaml");
 
 <?php
 
-echo '<p>Stage de '.$data["Duree1"].' chez ' .$data["entreprise1"].' en '.$data["Annee1"].'</p>';
-echo '<p>('.$data["Taches1"].' de materiels informatique.) </p>';
+echo '<p>Stage de '.$data["Duree1"].' chez ' .$data["entreprise1"].' en '.$data["Annee1"].'.('.$data["Taches1"].' de materiels informatique.) </p>';
+
 
 
 
