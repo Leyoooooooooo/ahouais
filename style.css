@@ -133,5 +133,7 @@ p{
 #cv{
     display: flex;
     align-items: center;
-    
+    margin: auto;
+    width: auto;
+
 }
