@@ -17,24 +17,33 @@
 		</header>
 
 		<main>
+
 			<section>
 			<?php include("php/accueil.php"); ?>
 			<br>
-			
 			</section>
 		
 			<section class="apropos">
 				<br>
 				<?php include("php/apropos.php"); ?>
 			</section>
+
 			<section class="competences">
 				<?php include("php/competences.php"); ?>
 			</section>
+
 			<br>
+
 			<section class="experience">
 				<br>
 				<?php include("php/experience.php"); ?>
+				<br>
 			</section>
+			
+			<section class="formation">
+				<?php include("php/formation.php"); ?>
+			
+			<section>
 
 
 
