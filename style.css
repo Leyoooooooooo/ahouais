@@ -129,3 +129,7 @@ p{
     color: rgb(0, 0, 0);
     box-shadow: 1px 1px 12px #555;
 }
+
+#cv{
+    text-align: center;
+}
