@@ -13,8 +13,9 @@ echo '<p> Diplôme du '.$data["diplome2"].' au '.$data["etablissement2"].' à '.
 
 echo '<p> Diplôme du '.$data["diplome3"].' au '.$data["etablissement2"].' à '.$data["lieu2"].' en '.$data["duree3"].'.</p>';
 
-echo '<p> Actuellement en préparation du diplôme '.$data["diplome4"].' a '.$data["etablissement3"].' à '.$data["lieu3"].'.</p>';
-
-
+echo '<p> Actuellement en préparation du diplôme '.$data["diplome4"].' à '.$data["etablissement3"].' à '.$data["lieu3"].'.</p>';
 
 ?>
+
+<a href="../doc/cvleo.pdf">Lien vers mon CV</a>
+<br>
