@@ -1,39 +1,25 @@
--
-experience1 :
-  entreprise : ICM informatique
-  Durée : 3 semaines
-  Annee : 2018
-  Taches : maintenance et des réparations
+entreprise1 : ICM informatique
+Durée1 : 3 semaines
+Annee1 : 2018
+Taches1 : maintenance et des réparations
 
--
+entreprise2 : ADMR
+Durée2 : 3 semaines
+Année2 : 2018
+Taches2 : Service Informatique
 
-experience2 : 
-  entreprise : ADMR
-  Durée : 3 semaines
-  Année : 2018
-  Taches : Service Informatique
+entreprise3 : Conseil Départemental
+Durée3 : 8 semaines 
+Année3 : 2019
+Taches3 : Mise en place de bornes Wi-Fi dans des collèges et confection d'un plan Wi-Fi pour le bâtiment du conseil départemental.
+ 
+entreprise4 : Intermarché Saint-Lô
+Durée4 : 2 semaines
+Année4 : 2020
+Taches4 : Mise en rayon au rayon bazar léger
 
--
-
-experience3 : 
-  entreprise : Conseil Départemental
-  Durée : 8 semaines 
-  Année : 2019
-  Taches : Mise en place de bornes Wi-Fi dans des collèges et confection d'un plan Wi-Fi pour le bâtiment du conseil départemental.
-
--
-
-experience4 : 
-  entreprise : Intermarché Saint-Lô
-  Durée : 2 semaines
-  Année : 2020
-  Taches : Mise en rayon au rayon bazar léger
-
--
-
-experience5 :
-  entreprise : Manche Habitat
-  Durée : 2 mois
-  Année : 2021 
-  Taches : Service comptabilité
+entreprise5 : Manche Habitat
+Durée5 : 2 mois
+Année5 : 2021 
+Taches5 : Service comptabilité
 
