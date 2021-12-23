@@ -8,7 +8,7 @@ $data=yaml_parse_file("data/experience.yaml");
 
 <?php
 
-echo '<p>Stage chez'.$data["entreprise1"].'</p>';
+echo '<p>Stage de '.$data["Duree1"].' chez ' .$data["entreprise1"].' en '.$data["Annee1"].'</p>';
 
 
 
