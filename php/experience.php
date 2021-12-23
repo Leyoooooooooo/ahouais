@@ -10,7 +10,7 @@ $data=yaml_parse_file("data/experience.yaml");
 
 echo '<p>Stage de '.$data["Duree1"].' chez ' .$data["entreprise1"].' en '.$data["Annee1"].'.('.$data["Taches1"].' de materiels informatique.) </p>';
 
-
+echo '<p>Stage de '.$data["Duree2"].' à la fédération de la Manche de '.$data["entreprise2"].' en '.$data["Annee2"].'.('.$data["Taches2"].'</p>';
 
 
 
